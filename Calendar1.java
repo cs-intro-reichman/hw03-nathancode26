@@ -37,7 +37,7 @@ public class Calendar1 {
 	 		//// If you want to stop the loop after n days, replace the condition of the
 	 		//// if statement with the condition (debugDaysCounter == n)
         }
-		System.out.println("During the 20th century,"+ total_sunday_first + " Sundays fell on the first day of the month");
+		System.out.println("During the 20th century, "+ total_sunday_first + " Sundays fell on the first day of the month");
 
 
 	 	//// Write the necessary ending code here
@@ -60,12 +60,7 @@ public class Calendar1 {
 		else{
 			dayOfMonth++;
 		}	
-<<<<<<< HEAD
-		dayOfWeek=(dayOfWeek%7)+1;	
-			
-=======
 		dayOfWeek=(dayOfWeek%7)+1;		
->>>>>>> dc8745d863d20fa7fd36e06da0d25f62865e870f
 	}
 
 		
