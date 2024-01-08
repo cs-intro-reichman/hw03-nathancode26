@@ -88,4 +88,3 @@ public class LoanCalc {
 	}
 }
 
->>>>>>> dc8745d863d20fa7fd36e06da0d25f62865e870f
