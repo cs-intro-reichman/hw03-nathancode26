@@ -60,12 +60,7 @@ public class Calendar1 {
 		else{
 			dayOfMonth++;
 		}	
-<<<<<<< HEAD
-		dayOfWeek=(dayOfWeek%7)+1;	
-			
-=======
 		dayOfWeek=(dayOfWeek%7)+1;		
->>>>>>> dc8745d863d20fa7fd36e06da0d25f62865e870f
 	}
 
 		
