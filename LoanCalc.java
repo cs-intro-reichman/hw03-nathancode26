@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
 * Computes the periodical payment necessary to re-pay a given loan.
 */
@@ -86,3 +87,6 @@ public class LoanCalc {
     	return loan;
 	}
 }
+=======
+
+>>>>>>> dc8745d863d20fa7fd36e06da0d25f62865e870f
