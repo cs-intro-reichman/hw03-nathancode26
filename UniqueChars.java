@@ -22,6 +22,7 @@ public class UniqueChars {
             }
             i++;
         } 
+        
         // Replace the following statement with your code
         return ans;
     }
