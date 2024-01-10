@@ -14,7 +14,7 @@ public class UniqueChars {
         int i = 1;
         while(i<s.length()){
             char c = s.charAt(i);
-            if (i == (s.indexOf(c))){
+            if (i == (s.indexOf(c)) || c==32){
                 ans = ans + c;
             }
             else{
