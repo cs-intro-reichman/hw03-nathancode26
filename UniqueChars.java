@@ -18,7 +18,7 @@ public class UniqueChars {
                 ans = ans + c;
             }
             else{
-                ans = ans + " ";
+                ans = ans + "";
             }
             i++;
         } 
