@@ -15,7 +15,7 @@ public class UniqueChars {
         while(i<s.length()){
             char c = s.charAt(i);
             if (i == (s.indexOf(c))){
-                ans = ans + c;
+                ans = ans +" "+ c;
             }
             else{
                 ans = ans + "";
